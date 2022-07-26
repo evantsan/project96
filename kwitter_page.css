@@ -1,0 +1,33 @@
+#output
+{
+	width:80% !important;
+    background: rgba(255, 96, 133, 0.8)!important;
+    font-size: 40px!important;
+}
+body{
+    background-color:dodgerblue !important;
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+#buttt{
+    height: 40px!important;
+    width: 150px!important;
+    border-radius: 20px!important;
+    margin-left: 1700px!important;
+    margin-top: 30px!important;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color:dodgerblue !important;
+}
+#logs{
+    background-color: cornsilk;
+    width: 1000px;
+    height: 200px;
+    border-radius: 90px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+button{
+    height: 100px;
+    width: 400px;
+    border-radius: 90px!important;
+    font-size: 50px!important;
+}

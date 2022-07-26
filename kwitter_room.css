@@ -1,0 +1,28 @@
+body{
+    background-color:dodgerblue !important;
+}
+#buttt{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px!important;
+    margin-left: 1700px;
+    margin-top: 30px;
+}
+input{
+    width: 800px !important;
+}
+#roomms{
+    background: rgba(124, 249, 205, 0.8);
+    padding: 10px;
+    width: 800px;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
+
+#output
+{
+	 
+    width:80%;
+    background: rgba(255, 96, 133, 0.8);
+    font-size: 40px;
+}
